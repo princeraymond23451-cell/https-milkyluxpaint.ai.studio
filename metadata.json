@@ -1,0 +1,6 @@
+{
+  "name": "MILKYLUXPAINT",
+  "description": "Professional painting, wall finishing, interior/exterior residential, commercial and decorative painting services in Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
